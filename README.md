@@ -1,12 +1,15 @@
-- Hi, I’m @abadyr
+# About @abadyr:
 
-- Interests:
+## Interests:
     
-- currently learning:
+## currently learning:
+C#, .Net;
+Javascript, Typescript.
 
-- I’m looking to collaborate on:
+## looking to collaborate on:
+Nothing atm.
 
-- How to reach me:
+## How to reach me:
 
 <!---
 abadyr/abadyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
