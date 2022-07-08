@@ -3,7 +3,7 @@
 ## Interests:
     
 ## currently learning:
-C#, .Net;
+C#, .Net;  
 Javascript, Typescript.
 
 ## looking to collaborate on:
