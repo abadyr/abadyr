@@ -1,15 +1,14 @@
 # About @abadyr:
+**`Aspiring Developper`**
 
-## Interests:
-    
-## currently learning:
-C#, .Net;  
-Javascript, Typescript.
+Aspiring FullStack Developper, currently learning C# & .NET through Visual Studio, as well as Database management.
+I've played arround with the vanilla web languages (HTML, CSS, JavaScript).
 
-## looking to collaborate on:
-Nothing atm.
+Once I'm confident I got the fundamentals down - the logic and fundational concepts of OOP languages -,  and I can code interesting (useful) applications without needing automatisation as a crutch...  
+I expect I'll try some Python, and then Rust,  because I'm curious about these languages, and I'm courious how the 3 (with C#) compare against each other.
+   
+---
 
-## How to reach me:
 
 <!---
 abadyr/abadyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
